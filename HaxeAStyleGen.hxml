@@ -1,0 +1,5 @@
+-lib compiletime
+-cp src
+-main Main
+--interp 
+
